@@ -3,7 +3,7 @@ function Nav (){
     return(
         <>
 
-        <h1>Navbar</h1>
+        <h1 className='text-red-400'>Navbar</h1>
         </>
     )
 }
